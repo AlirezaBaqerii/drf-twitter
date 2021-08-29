@@ -1,0 +1,2 @@
+for now creating a profile from api end point does not work,
+follwer, following and like login must bee added
